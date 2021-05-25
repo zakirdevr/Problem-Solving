@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Build Square (Codewars 7kyu)/1.0.0": {
+        "runtime": {
+          "Build Square (Codewars 7kyu).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Build Square (Codewars 7kyu)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
