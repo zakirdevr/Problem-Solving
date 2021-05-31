@@ -1,0 +1,16 @@
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).csprojAssemblyReference.cache
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).GeneratedMSBuildEditorConfig.editorconfig
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).AssemblyInfoInputs.cache
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).AssemblyInfo.cs
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).csproj.CoreCompileInputs.cache
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\bin\Debug\net5.0\FizzBuzz (Codewars 7kyu).exe
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\bin\Debug\net5.0\FizzBuzz (Codewars 7kyu).deps.json
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\bin\Debug\net5.0\FizzBuzz (Codewars 7kyu).runtimeconfig.json
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\bin\Debug\net5.0\FizzBuzz (Codewars 7kyu).runtimeconfig.dev.json
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\bin\Debug\net5.0\FizzBuzz (Codewars 7kyu).dll
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\bin\Debug\net5.0\ref\FizzBuzz (Codewars 7kyu).dll
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\bin\Debug\net5.0\FizzBuzz (Codewars 7kyu).pdb
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).dll
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\ref\FizzBuzz (Codewars 7kyu).dll
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).pdb
+I:\Problem Solving\FizzBuzz (Codewars 7kyu)\obj\Debug\net5.0\FizzBuzz (Codewars 7kyu).genruntimeconfig.cache
